@@ -1,7 +1,7 @@
 # Queries For A Company
 This is my first project which based on a company data.
 
-Here is company data which is including below tables;
+Here is company data which is including below tables:
 Employees 
 Departments
 Jobs
